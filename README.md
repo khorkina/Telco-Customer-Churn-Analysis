@@ -24,11 +24,20 @@ From the chart, I observe that customers who subscribe to internet Services tend
 INTERNET DEVICES RATING
 supporting the idea that the internet services of this company are problematic, the Fiber Optic product received the largest percentage of low ratings, suggesting that many customers rare not particularly pleased with it.
 
+![newplot (11)](https://github.com/khorkina/Telco-Customer-Churn-Analysis/assets/166530415/6951eabc-e515-442b-bd63-bb002e9496ab)
+
+
 PHONE SERVICES RATING
 in contrast, Phone Service users tend to give higher ratings.
 
+![newplot (12)](https://github.com/khorkina/Telco-Customer-Churn-Analysis/assets/166530415/d7cadeff-6922-4ccd-bf9b-d9da87902fc2)
+
+
 INTERNET SERVICE OPTIONS
 This matrix reveals Cramer V statistics between 0.07 and 0.17, indicating a small to moderato relationship between Internet Service options and Customer Churn, While the relationship exists, its strength suggests that other factors may be more influential in explaining customer churn
+
+![newplot (13)](https://github.com/khorkina/Telco-Customer-Churn-Analysis/assets/166530415/db02c36c-c901-4171-af45-c48d296139f5)
+
 
 OFFERINGS
 The second-largest reason customers become churned is because the competitor made better offers. Customers who a ho are offered "E” tend to churn. Therefore, this offering strategy needs to be changed.
