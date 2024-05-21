@@ -2,6 +2,7 @@
 Findings:
 
 Telco faces the problem of customer churn. This time, analyze the data and try to provide recommendations related to the problem faced.
+
 "Churn" refers to the loss of customers, typically due to dissatisfaction with a service or product.
 
 CUSTOMER CHURN:
