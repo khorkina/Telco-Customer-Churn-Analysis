@@ -3,7 +3,7 @@
 CUSTOMER CHURN:
 26% of Telco customers are churning, resulting in a devastating $3.6 million revenue loss.
 Competitor and Poor Attitude from employees are the largest cause of customer churn. This analysis will help us
-understand why customers are leaving and develop targeted strategies to win them back
+understand why customers are leaving and develop targeted strategies to win them back. 
 
 ![newplot (6)](https://github.com/khorkina/Telco-Customer-Churn-Analysis/assets/166530415/d54a19a7-a0fa-4d6c-8637-00f5696fe63e)
 
