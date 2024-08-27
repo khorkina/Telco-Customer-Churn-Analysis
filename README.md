@@ -7,6 +7,7 @@ understand why customers are leaving and develop targeted strategies to win them
 
 ![newplot (6)](https://github.com/khorkina/Telco-Customer-Churn-Analysis/assets/166530415/d54a19a7-a0fa-4d6c-8637-00f5696fe63e)
 
+
 ![newplot (7)](https://github.com/khorkina/Telco-Customer-Churn-Analysis/assets/166530415/06e04cfe-aed0-40d4-90b9-401e6549aa38)
 
 
